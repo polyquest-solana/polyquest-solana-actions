@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "pathPattern": "/actions/vote/*",
+      "apiPath": "https://polyquest.xyz/api/actions/vote/*"
+    }
+  ]
+}
